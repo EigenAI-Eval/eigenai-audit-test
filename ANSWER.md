@@ -1,3 +1,3 @@
-Tag: vbase-2025-current
-Commit: 257448f3 Sean
-File: .expeditor/config.yml skipif=0
+Tag: with_maskna
+Commit: 651ef74c njsmith
+File: numpy/core/function_base.py skipif=0
